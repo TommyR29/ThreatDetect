@@ -1,0 +1,31 @@
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #78206E;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-display: swap; 
+    
+}
+
+.footer{
+    background-color:#2D2A23;
+    padding: 0px;
+    width: 100%;
+    margin: 0px;
+}
+
+.footerHeader{
+    text-align: center;
+    color: rgb(230, 230, 230);
+}
+
+.footerText{
+    text-align: center;
+    color:rgb(122, 122, 122)
+}
+
+#footerCopy{
+    border-top: 1px solid rgb(122, 122, 122);
+    margin-left: 10%;
+    margin-right: 10%;
+}
