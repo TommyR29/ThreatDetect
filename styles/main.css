@@ -2,11 +2,24 @@
 html, body {
   margin: 0;
   padding: 0;
-  background-color: #78206E;
+  background-color: #5A1D8D;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-display: swap; 
     
 }
 
+
+.menubar{
+    position: fixed;
+    background-color: #F7F4FA;
+    width: 100%;
+}
+
+.menuimg{
+    width: 400px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 15px;
+}
 .footer{
     position: fixed;
     bottom: 0;
